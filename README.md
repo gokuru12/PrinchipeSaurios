@@ -12,3 +12,8 @@ https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/e94d583a-3d01-47fb-
 William Rivero ID : 000463283
 
 https://drive.google.com/file/d/1YYdXw_Flc1sFNjNHEE8htyEawonF59eP/view?usp=sharing
+
+Mariana Echeverri Pérez ID: 000419936
+
+https://github.com/gokuru12/PrinchipeSaurios/assets/92809258/a35bf275-5600-4ca9-8bc0-aae94fef1730
+
