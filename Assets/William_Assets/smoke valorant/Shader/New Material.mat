@@ -24,12 +24,30 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - _Pattern1:
+        m_Texture: {fileID: 2800000, guid: 57ae07e8e311d7843acc76f297dbbc60, type: 3}
+        m_Scale: {x: 3, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Pattern2:
+        m_Texture: {fileID: 2800000, guid: 57ae07e8e311d7843acc76f297dbbc60, type: 3}
+        m_Scale: {x: 2, y: 1}
+        m_Offset: {x: 0.49, y: 0}
+    - _Pattern3:
+        m_Texture: {fileID: 2800000, guid: 57ae07e8e311d7843acc76f297dbbc60, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0.21, y: 0}
     m_Ints: []
     m_Floats:
     - _DisplaysmentAmount: 0.04
     - _QueueControl: 0
-    m_Colors: []
+    m_Colors:
+    - _Pattern1Thresholds: {r: 0.05, g: 0.2, b: 0.6, a: 0.7}
+    - _Pattern2Color: {r: 0.345098, g: 0.7019608, b: 0.48662317, a: 0.39607844}
+    - _Pattern2Thresholds: {r: 0.12, g: 0.2, b: 0.5, a: 0.92}
+    - _Pattern3Color: {r: 0.1882352, g: 0.4627449, b: 0.33333322, a: 0.05490196}
+    - _Pattern3Thresholds: {r: 0.05, g: 0.1, b: 0.6, a: 0.7}
+    - _PatternColor: {r: 0.18823522, g: 0.46274495, b: 0.33333325, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &466924712433311780
 MonoBehaviour:
