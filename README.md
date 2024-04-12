@@ -44,8 +44,13 @@ DISOLVER TEXTURA PRE CREADA
 
 Sofía SIlva ALvarado ID:000427982
 
+MÁSCARA RADIAL PROCEDURAL
+
+https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/0844eccf-d236-48a2-af9b-f90308d51a87
 
 
-https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/b2636105-0c22-446f-a84b-85d4e2df0c2a
+
+![image](https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/3b8fc4bf-380d-49ce-8862-447007a23bf5)
+
 
 
