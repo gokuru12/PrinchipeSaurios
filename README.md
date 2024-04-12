@@ -23,3 +23,11 @@ Mariana Echeverri Pérez ID: 000419936
 
 https://github.com/gokuru12/PrinchipeSaurios/assets/92809258/a35bf275-5600-4ca9-8bc0-aae94fef1730
 
+#EJERCICIO 3
+Sofía SIlva ALvarado ID:000427982
+
+
+
+https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/b2636105-0c22-446f-a84b-85d4e2df0c2a
+
+
