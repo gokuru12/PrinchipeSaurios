@@ -23,7 +23,17 @@ Mariana Echeverri Pérez ID: 000419936
 
 https://github.com/gokuru12/PrinchipeSaurios/assets/92809258/a35bf275-5600-4ca9-8bc0-aae94fef1730
 
-#EJERCICIO 3
+# EJERCICIO 3
+Mariana Echeverri ID: 000419936
+
+DISTORSIÓN CON NORMAL MAP
+![image](https://github.com/gokuru12/PrinchipeSaurios/assets/92809258/d1ff8787-80fd-481e-bd33-cf25d875e454)
+DISOLVER TEXTURA PRE CREADA
+![image](https://github.com/gokuru12/PrinchipeSaurios/assets/92809258/b5d7b433-493a-45fa-a455-4b65df229c28)
+
+
+
+
 Sofía SIlva ALvarado ID:000427982
 
 
