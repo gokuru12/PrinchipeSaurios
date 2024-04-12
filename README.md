@@ -48,9 +48,14 @@ MÁSCARA RADIAL PROCEDURAL
 
 https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/0844eccf-d236-48a2-af9b-f90308d51a87
 
-
-
 ![image](https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/3b8fc4bf-380d-49ce-8862-447007a23bf5)
+
+MÁSCARA MULTICANAL
+
+https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/73873caa-e091-4d11-aef2-c7c16c632ca4
+
+![image](https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/5cd0aa3a-d519-4c58-8030-0955011a562c)
+
 
 
 
