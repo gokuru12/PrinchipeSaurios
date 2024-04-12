@@ -32,6 +32,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: a30b352f0fe935f47aaf33fda8c6c8dc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _NormalesExperimento:
+        m_Texture: {fileID: 2800000, guid: 798ce9deae9d29f4aa427165078bdbd0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _ReflectionMap:
         m_Texture: {fileID: 8900000, guid: 2eae9be5e95ec9b44be17b955cbf6404, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -55,7 +59,9 @@ Material:
     - _FoamSpeed: 1.87
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _SpecularHardness: 100
     m_Colors:
+    - _: {r: 1, g: 1, b: 1, a: 0}
     - _DeepColor: {r: 0.10542077, g: 0, b: 0.6981132, a: 0}
     - _FoamNoiseFuzziness: {r: 0, g: 1, b: 0, a: 0}
     - _NoiseVelocity: {r: 0.2, g: 0.2, b: 0, a: 0}

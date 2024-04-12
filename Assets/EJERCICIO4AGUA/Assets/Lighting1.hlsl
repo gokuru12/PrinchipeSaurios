@@ -1,3 +1,6 @@
+#ifndef LIGHTING
+#define LIGHTING
+
 void GetMainLight_float(out float3 Direction, out float3 Color)//Tenemos 2 salidas, la dirección y el color
 {
 	Direction = float3(1,1,-1);
@@ -16,7 +19,5 @@ void Add_float(float A, float B, out float Result)
 {
 	//Inicializamos los valores A, B y Result
 	Result = A + B;
-
-} 
-
+}
 #endif
