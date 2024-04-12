@@ -26,6 +26,10 @@ https://github.com/gokuru12/PrinchipeSaurios/assets/92809258/a35bf275-5600-4ca9-
 # EJERCICIO 3
 Mariana Echeverri ID: 000419936
 
+
+https://github.com/gokuru12/PrinchipeSaurios/assets/92809258/750dd227-2a2a-4991-a1f5-d156504384c0
+
+
 DISTORSIÓN CON NORMAL MAP
 ![image](https://github.com/gokuru12/PrinchipeSaurios/assets/92809258/d1ff8787-80fd-481e-bd33-cf25d875e454)
 DISOLVER TEXTURA PRE CREADA
