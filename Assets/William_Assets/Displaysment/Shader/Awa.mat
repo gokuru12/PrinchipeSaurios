@@ -81,6 +81,6 @@ Material:
     - _FoamNoiseFuzzines: {r: 0.35, g: 0.87, b: 0, a: 0}
     - _NoiceVelocity: {r: 0.3, g: 0, b: 0, a: 0}
     - _RefractionIntesity: {r: 0.55, g: 0, b: 0, a: 0}
-    - _Scatter: {r: -0.15, g: 2.08, b: 0, a: 0}
-    - _Shallala: {r: 0.049394794, g: 0.6981132, b: 0.5486944, a: 0}
+    - _Scatter: {r: -0.1, g: 2.08, b: 0, a: 0}
+    - _Shallala: {r: 0.8867924, g: 0.11879673, b: 0.70005447, a: 0}
   m_BuildTextureStacks: []
