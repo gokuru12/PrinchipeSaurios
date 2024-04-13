@@ -77,7 +77,12 @@ https://github.com/gokuru12/PrinchipeSaurios/assets/71029151/e828e94e-40f2-453d-
 
 
 
+# EJERCICIO 4
 
 
+![PrinchipeSaurios - AguaEscena - Windows, Mac, Linux - Unity 2022 3 15f1_ _DX11_ 12_04_2024 11_46_05 p  m](https://github.com/gokuru12/PrinchipeSaurios/assets/71029151/446e15ec-b661-4d19-b97d-086e5711889f)
+
+
+https://github.com/gokuru12/PrinchipeSaurios/assets/71029151/f89b926c-133f-4dc9-af78-9fb48cb4a5f7
 
 
