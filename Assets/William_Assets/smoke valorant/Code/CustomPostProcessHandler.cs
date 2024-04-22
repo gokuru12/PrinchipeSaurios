@@ -5,13 +5,13 @@ using UnityEngine.Rendering.Universal;
 public class CustomRenderPassFeature : ScriptableRendererFeature
 {
 
-    Fog2 m_ScriptablePass;
+    Fog2W m_ScriptablePass;
     [SerializeField] private Material valorantSmokeMaterial;
 
     /// <inheritdoc/>
     public override void Create()
     {
-        m_ScriptablePass = new Fog2(valorantSmokeMaterial);
+        m_ScriptablePass = new Fog2W(valorantSmokeMaterial);
 
         // Configures where the render pass should be injected.
         m_ScriptablePass.renderPassEvent = RenderPassEvent.AfterRenderingOpaques;

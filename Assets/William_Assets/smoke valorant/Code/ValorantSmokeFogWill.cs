@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Rendering;
 
-public class ValorantSmokeFog : VolumeComponent
+public class ValorantSmokeFogWill : VolumeComponent
 
 {
     public ColorParameter color = new ColorParameter(Color.white);
