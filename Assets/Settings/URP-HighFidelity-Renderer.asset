@@ -123,6 +123,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee0934f7d13ed734d866e877f0cb8151, type: 3}
   m_Name: CustomPostProcessHandler
   m_EditorClassIdentifier: 
-  m_Active: 1
+  m_Active: 0
   valorantSmokeMaterial: {fileID: 2100000, guid: 92ccadf42a3b2074aa83a6e8f7c6a93f,
     type: 2}
