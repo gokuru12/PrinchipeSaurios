@@ -86,3 +86,12 @@ https://github.com/gokuru12/PrinchipeSaurios/assets/71029151/e828e94e-40f2-453d-
 https://github.com/gokuru12/PrinchipeSaurios/assets/71029151/f89b926c-133f-4dc9-af78-9fb48cb4a5f7
 
 
+
+# EJERCICIO 5 
+
+DISTORSIÓN EN ESPACIO DE PANTALLA
+Mariana Echeverri Pérez ID: 000419936
+![image](https://github.com/gokuru12/PrinchipeSaurios/assets/92809258/6d9f0bc8-94bf-4c27-82c3-995bfeb4d91e)
+https://github.com/gokuru12/PrinchipeSaurios/assets/92809258/8eb956d5-3c34-44f6-b476-d1dc8cdce25d
+
+
