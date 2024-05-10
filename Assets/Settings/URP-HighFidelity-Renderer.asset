@@ -68,8 +68,7 @@ MonoBehaviour:
   m_RendererFeatures:
   - {fileID: -1878332245247344467}
   - {fileID: 3149138793075102928}
-  - {fileID: 1215927234464414925}
-  m_RendererFeatureMap: adc0de57c6d2eee5d0d4a4250cfdb32bcd7cf9a260d7df10
+  m_RendererFeatureMap: adc0de57c6d2eee5d0d4a4250cfdb32b
   m_UseNativeRenderPass: 0
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
   xrSystemData: {fileID: 11400000, guid: 60e1133243b97e347b653163a8c01b64, type: 2}
@@ -108,36 +107,10 @@ MonoBehaviour:
     zFailOperation: 0
   m_ShadowTransparentReceive: 1
   m_RenderingMode: 0
-  m_DepthPrimingMode: 0
+  m_DepthPrimingMode: 1
   m_CopyDepthMode: 0
   m_AccurateGbufferNormals: 0
   m_IntermediateTextureMode: 0
---- !u!114 &1215927234464414925
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6cb496a42e3818458880672d36df037, type: 3}
-  m_Name: CustomPostProcessInjector
-  m_EditorClassIdentifier: 
-  m_Active: 1
-  chromaticAberration:
-    renderingShader: {fileID: 0}
-    passName: 
-  screenSpaceDistortion:
-    renderingShader: {fileID: -6465566751694194690, guid: 3b7758d70e528ba4981b05ec0a6c0a90,
-      type: 3}
-    passName: Ayuda
-  depthOfField:
-    renderingShader: {fileID: 0}
-    passName: 
-  vignetteMaskedTexture:
-    renderingShader: {fileID: 0}
-    passName: 
 --- !u!114 &3149138793075102928
 MonoBehaviour:
   m_ObjectHideFlags: 0
