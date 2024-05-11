@@ -104,6 +104,14 @@ William Rivero Márquez ID: 000463283
 
 https://github.com/gokuru12/PrinchipeSaurios/assets/71029151/0593dcd4-443d-46a7-b623-ebd24288c1c9
 
+ABERRACIÓN CROMÁTICA
+Sofía Silva Alvarado ID:000427982
+
+![image](https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/6167084d-df48-4cb1-bf1d-103ee0461700)
+
+
+
+
 
 
 
