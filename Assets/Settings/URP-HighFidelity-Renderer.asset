@@ -126,8 +126,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Active: 1
   chromaticAberration:
-    renderingShader: {fileID: 0}
-    passName: 
+    renderingShader: {fileID: -6465566751694194690, guid: aed24ebe2c5919f4f8c5b8f51d61f6fb,
+      type: 3}
+    passName: Chromatic
   screenSpaceDistortion:
     renderingShader: {fileID: -6465566751694194690, guid: 3b7758d70e528ba4981b05ec0a6c0a90,
       type: 3}

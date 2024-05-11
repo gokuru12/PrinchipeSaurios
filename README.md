@@ -95,3 +95,28 @@ Mariana Echeverri Pérez ID: 000419936
 https://github.com/gokuru12/PrinchipeSaurios/assets/92809258/8eb956d5-3c34-44f6-b476-d1dc8cdce25d
 
 
+MASCARA VIGNETTE
+William Rivero Márquez ID: 000463283
+
+
+![Captura de pantalla 2024-05-10 234556](https://github.com/gokuru12/PrinchipeSaurios/assets/71029151/aab0d6a1-6ee2-4439-95c3-9f8ef3d1825e)
+
+
+https://github.com/gokuru12/PrinchipeSaurios/assets/71029151/0593dcd4-443d-46a7-b623-ebd24288c1c9
+
+ABERRACIÓN CROMÁTICA
+Sofía Silva Alvarado ID:000427982
+
+![image](https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/6167084d-df48-4cb1-bf1d-103ee0461700)
+
+
+https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/e2de3e9d-89bc-40b6-af10-2c33ef7cd237
+
+
+
+
+
+
+
+
+
