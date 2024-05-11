@@ -109,7 +109,10 @@ Sofía Silva Alvarado ID:000427982
 
 ![image](https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/6167084d-df48-4cb1-bf1d-103ee0461700)
 
-https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/2a82fd0e-5072-4ba5-9349-909a9f5b0307
+
+https://github.com/gokuru12/PrinchipeSaurios/assets/78062244/e2de3e9d-89bc-40b6-af10-2c33ef7cd237
+
+
 
 
 
