@@ -29,10 +29,10 @@ MonoBehaviour:
   active: 1
   redShift:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.087
   greenShift:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.746
   blueShift:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.222
