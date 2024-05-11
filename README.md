@@ -97,7 +97,9 @@ https://github.com/gokuru12/PrinchipeSaurios/assets/92809258/8eb956d5-3c34-44f6-
 
 MASCARA VIGNETTE
 William Rivero Márquez ID: 000463283
-![Captura de pantalla 2024-05-10 234201](https://github.com/gokuru12/PrinchipeSaurios/assets/71029151/034a5c45-7251-460f-9639-6e83c5b60051)
+
+
+![Captura de pantalla 2024-05-10 234556](https://github.com/gokuru12/PrinchipeSaurios/assets/71029151/aab0d6a1-6ee2-4439-95c3-9f8ef3d1825e)
 
 
 https://github.com/gokuru12/PrinchipeSaurios/assets/71029151/0593dcd4-443d-46a7-b623-ebd24288c1c9
