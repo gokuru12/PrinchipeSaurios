@@ -95,3 +95,13 @@ Mariana Echeverri Pérez ID: 000419936
 https://github.com/gokuru12/PrinchipeSaurios/assets/92809258/8eb956d5-3c34-44f6-b476-d1dc8cdce25d
 
 
+MASCARA VIGNETTE
+William Rivero Márquez ID: 000463283
+![Captura de pantalla 2024-05-10 234201](https://github.com/gokuru12/PrinchipeSaurios/assets/71029151/034a5c45-7251-460f-9639-6e83c5b60051)
+
+
+https://github.com/gokuru12/PrinchipeSaurios/assets/71029151/0593dcd4-443d-46a7-b623-ebd24288c1c9
+
+
+
+
