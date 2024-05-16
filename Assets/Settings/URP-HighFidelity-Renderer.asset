@@ -137,8 +137,9 @@ MonoBehaviour:
     renderingShader: {fileID: 0}
     passName: 
   vignetteMaskedTexture:
-    renderingShader: {fileID: 0}
-    passName: 
+    renderingShader: {fileID: -6465566751694194690, guid: aabf93a99dd78a44ab1d3053de8e1d02,
+      type: 3}
+    passName: Si
 --- !u!114 &3149138793075102928
 MonoBehaviour:
   m_ObjectHideFlags: 0
