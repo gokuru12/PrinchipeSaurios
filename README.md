@@ -4,12 +4,11 @@
 https://github.com/gokuru12/Final_princhipesaurios
 
 
-
-
 # EJERCICIO 2
 
 https://github.com/gokuru12/PrinchipeSaurios/assets/92809258/3bfbef61-b939-4bc8-b978-160d7eb5e97b
-
+video del funcionamiento del demo, porque no nos quiso funcionar sacando el buil profe
+https://drive.google.com/file/d/1qdzbo9Vq0ctoPo-PX8SyITUimaiPzupL/view?usp=sharing
 
 # EJERCICIO1
 Sofia Silva ID : 000427982
