@@ -2,8 +2,11 @@
 
 # FINAL
 https://github.com/gokuru12/Final_princhipesaurios
-video del funcionamiento del demo, porque no nos quiso funcionar sacando el buil profe
-https://drive.google.com/file/d/1qdzbo9Vq0ctoPo-PX8SyITUimaiPzupL/view?usp=sharing
+
+LO LOGRÉ MONTAR
+Importante, ponerlo en pantalla completa para poder permitir un correcto funcionamiento
+https://marye10.itch.io/efectosvfx
+
 
 # EJERCICIO 2
 
